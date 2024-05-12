@@ -21,6 +21,8 @@ class CustomButtonBlocConsumer extends StatelessWidget {
           // } else {
           //   excuteStripePayment(context);
           // }
+
+
         },
         isLoading: false,
         text: 'Continue');
